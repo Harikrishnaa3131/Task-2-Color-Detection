@@ -5,4 +5,4 @@ i)open-cv2
 ii)Pandas
 iii)Matplotlib
 iv)Numpy
-The csv file contains the color code for different colors
+The csv file contains the color code for different colors.
